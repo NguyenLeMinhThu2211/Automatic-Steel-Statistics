@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-04-06T06:29:56.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="a2kRK88mIdEOM0b53IHC" version="24.0.2" type="onedrive">
+  <diagram name="Page-1" id="ZoAWX74xKeAyGtkxgzz0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HWPeDV3FuD8b7A9NORH-1" target="5HWPeDV3FuD8b7A9NORH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-1" value="Tạo poliline mới đè lên Polyline thép cũ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HWPeDV3FuD8b7A9NORH-3" target="5HWPeDV3FuD8b7A9NORH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-3" value="Tạo Block Att để tạo Tag thép mới" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-4" value="Group Polyline và tag thép thành 1 Group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-12" value="Lệnh 1, Gán thép" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;imageHeight=12;perimeter=trianglePerimeter;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="420" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-14" value="Lệnh 2, Tạo bảng thống kê" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="620" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5HWPeDV3FuD8b7A9NORH-17" target="5HWPeDV3FuD8b7A9NORH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-17" value="Chọn group với các Polyline và Layer khớp với Layer đã đặt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="767" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-7" value="Tạo Block chứa bảng thống kê" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="767" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWPeDV3FuD8b7A9NORH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.502;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5HWPeDV3FuD8b7A9NORH-8" target="5HWPeDV3FuD8b7A9NORH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

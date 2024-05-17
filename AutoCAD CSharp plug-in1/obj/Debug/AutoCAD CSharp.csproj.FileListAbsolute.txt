@@ -1,0 +1,35 @@
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.ResolveComReference.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD_CSharp_plug_in1.MyCommands.resources
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\bin\Debug\Start.Scr
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\PC\OneDrive\VISUAL\ACad_Schedule_addin\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD_CSharp_plug_in1.MainForm.resources
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\Start.Scr
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\Admin\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\Start.Scr
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.pdb
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.ResolveComReference.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.dll
+C:\Users\PC\OneDrive\VISUAL\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.pdb
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\Start.Scr
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.dll
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\bin\Debug\AutoCAD CSharp plug-in1.pdb
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.AssemblyReference.cache
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.ResolveComReference.cache
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp.csproj.CoreCompileInputs.cache
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.dll
+D:\Đồ án năm 4\Kì 2\ĐATN\Bài làm\Code\ACad_Quantity\AutoCAD CSharp plug-in1\obj\Debug\AutoCAD CSharp plug-in1.pdb
